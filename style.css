@@ -1,0 +1,30 @@
+body{
+    background-color: #D5E1EF;
+}
+.box{
+    height: 368px;
+    width: 238px;
+    padding: 12px;
+    padding-bottom: 2rem;
+    box-shadow: 0px 0px 0px 10px rgba(3, 3, 3, 0);
+    background-color: white;
+    position: fixed;
+    margin: auto;
+    inset: 0;
+    border-radius: 12px;
+}
+img{
+    max-width: 100%;
+    border-radius: 8px;
+}
+p{
+    font-family: cursive;
+    text-align: center;
+    font-weight: bolder;
+    color: hsl(218, 44%, 22%);
+}
+.roshu{
+    font-size: smaller;
+    font-weight: 100;
+    color:hsl(216, 15%, 48%) ;
+}
